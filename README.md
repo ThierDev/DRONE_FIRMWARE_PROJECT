@@ -11,3 +11,7 @@ This is 9 months project done in 2015, the project has been successfully complet
 > FileName : DOSSIER_TIPE_DRONE.pdf
 
 Have a look, it's a 54 pages report detailling exactly how we proceeded to build and make this functionnal drone. 
+
+
+# Disclaimer
+The code is very messy in here, big apologies, 100% garanteed I would not put this in production like this, the code is not factorized nor cleaned. The focus during this project where on electronics and especially on key concepts : PID feedback loops, Euler Angles equations, etc...
