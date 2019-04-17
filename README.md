@@ -8,9 +8,9 @@ This is 9 months project done in 2015, the project has been successfully complet
 
 # A complete report is available in French
 
-> FileName : DOSSIER_TIPE_DRONE.pdf
+> FileName : Dossier_TIPE_DRONE.pdf
 
-![DOSSIER_TIPE_DRONE.pdf](DOSSIER_TIPE_DRONE.pdf)
+![DOSSIER_TIPE_DRONE.pdf](Dossier_TIPE_DRONE.pdf)
 
 Have a look, it's a 54 pages report detailling exactly how we proceeded to build and make this functionnal drone. 
 
